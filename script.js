@@ -28,7 +28,7 @@ const apiKey = "14cdfeb6274e2e29c52610ac12f401cb";
 
 function updateUI(data) {
 
-    cityName.textContent =`${data.name}`;
+    cityName.textContent =`${data.name}, ${data.sys.country}`;
     temperature.textContent =`${Math.round(data.main.temp)}°C`;
     weatherType.textContent = data.weather[0].main;
     feelsLike.textContent =
