@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Weather App</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com"> 
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="container">
+
+    <h1>Weather App</h1>
+    <p class="subtitle">
+      Get real-time weather updates for any city.
+    </p>
+
+    <!-- SEARCH -->
+    <div class="search-box">
+
+      <input
+        type="text"
+        placeholder="Enter city name"
+      >
+      
+
+      <button>Search</button>
+
+    </div>
+
+    <!-- MAIN WEATHER CARD -->
+    <div class="weather-card">
+
+      <div class="weather-left">
+
+        <p class="location">
+          Kolkata
+        </p>
+
+        <h2>32°C</h2>
+
+        <p class="weather-type">
+          Cloudy
+        </p>
+
+        <p class="feels-like">
+          Feels like 37°C
+        </p>
+
+        <div class="weather-details">
+
+          <div class="detail-box">
+            <h4>Humidity</h4>
+            <p>70%</p>
+          </div>
+
+          <div class="detail-box">
+            <h4>Wind Speed</h4>
+            <p>12 km/h</p>
+          </div>
+
+          
+
+          <div class="detail-box">
+            <h4>Visibility</h4>
+            <p>8 km</p>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="weather-right">
+      
+        <img class="weather-icon" src="https://cdn-icons-png.flaticon.com/512/1779/1779940.png" alt="weather icon">
+      
+      </div>
+
+    </div>
+
+
+
+  </div>
+<script src="script.js"></script>
+
+</body>
+</html>
