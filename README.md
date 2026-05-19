@@ -15,36 +15,30 @@ Features:-
 12.Error handling for invalid city searches
 
 Technologies Used:-
-HTML5
-CSS3
-JavaScript
-APIs
-OpenWeatherMap API
-Browser Geolocation API
+HTML5, CSS3, JavaScript, APIs, OpenWeatherMap API ,Browser Geolocation API
 
 How It Works:-
 The application fetches weather data from the OpenWeatherMap API using JavaScript’s fetch() method and displays it dynamically on the webpage using DOM manipulation.
 
 Workflow:-
-User enters a city name or allows location access
-JavaScript sends a request to the weather API
-API returns weather data in JSON format
-Data is extracted and displayed dynamically
-Background and weather icons update automatically
+1. User enters a city name or allows location access
+2. JavaScript sends a request to the weather API
+3. API returns weather data in JSON format
+4. Data is extracted and displayed dynamically
+5. Background and weather icons update automatically
 
 Concepts Learned:-
-This project helped in understanding:
-DOM Manipulation
-Event Listeners
-Async/Await
-Fetch API
-JSON Handling
-API Integration
-Responsive Design
-CSS Grid & Flexbox
-Dynamic UI Rendering
-Browser Geolocation API
-Error Handling in JavaScript
+1. DOM Manipulation
+2. Event Listeners
+3. Async/Await
+4. Fetch API
+5. JSON Handling
+6. API Integration
+7. Responsive Design
+8. CSS Grid & Flexbox
+9. Dynamic UI Rendering
+10. Browser Geolocation API
+11. Error Handling in JavaScript
 
 Planned features for future versions:
 1. 7-Day Weather Forecast
@@ -53,8 +47,6 @@ Planned features for future versions:
 4. UV Index
 5. Sunrise and Sunset Information
 
-Deployment
-
-The project is deployed using GitHub Pages.
+Deployment: The project is deployed using GitHub Pages.
 API Reference: Weather data provided by: OpenWeatherMap API
 Author: Developed as a frontend learning and internship project to practice real-world JavaScript, API integration, and responsive web development.
