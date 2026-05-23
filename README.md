@@ -65,3 +65,8 @@ Duration: 4 Weeks
 
 Mentor: Neela Santhosh Kumar
 
+output:
+<img width="945" height="943" alt="Image" src="https://github.com/user-attachments/assets/bf4e84ea-3381-46c7-a47f-eeedd07dfb76" />
+<img width="921" height="819" alt="Image" src="https://github.com/user-attachments/assets/63a0cf27-1e01-4a3c-a0ff-f80dcd38c6db" />
+/assets/bf4e84ea-3381-46c7-a47f-eeedd07dfb76" />
+
