@@ -50,3 +50,18 @@ Planned features for future versions:
 Deployment: The project is deployed using GitHub Pages.
 API Reference: Weather data provided by: OpenWeatherMap API
 Author: Developed as a frontend learning and internship project to practice real-world JavaScript, API integration, and responsive web development.
+
+Project Link: https://ankitadutta2507.github.io/weather-app/
+
+Company Name: Codtech IT Solutions Private Limited
+
+Name: Ankita Dutta
+
+Intern Id: CTIS9009
+
+Domain: Mern Stack Web Development
+
+Duration: 4 Weeks
+
+Mentor: Neela Santhosh Kumar
+
